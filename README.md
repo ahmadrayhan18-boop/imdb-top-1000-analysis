@@ -31,4 +31,6 @@ Periode 1990–2010 merupakan dekade dengan rata-rata rating tertinggi.
 📦 Dataset
 
 Dataset diambil dari Kaggle:
-🔗 IMDb Dataset of Top 1000 Movies and TV Shows
+[IMDb Top 1000 Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+
+
